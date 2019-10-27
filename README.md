@@ -33,7 +33,7 @@ Efforts have been made to keep the implementation as close to the source templat
     Use the Gatsby CLI to create a new site, specifying the starter project.
     
     ```sh
-    gatsby new project-name https://github.com/JohnJKerr/gatsby-creative
+    gatsby new project-name https://github.com/anataliocs/gatsby-creative
     ```
 
 2.  **Start developing.**
