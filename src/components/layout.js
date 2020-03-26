@@ -62,7 +62,17 @@ export default class Layout extends React.Component {
         <main>{this.props.children}</main>
         <footer className="bg-light py-5">
           <div className="container">
-            <div className="small text-center text-muted">Copyright &copy; 2019 - Start Bootstrap</div>
+            <div className="small text-center text-muted">Copyright &copy; 2020 - Chris Anatalio</div>
+      
+            <br/>
+            <div className="text-center text-muted">
+              <h2>
+                <a href="https://twitter.com/canatalio">
+                  <i className="fab fa-twitter-square"></i></a>&nbsp;
+                <a href="https://www.facebook.com/">
+                  <i className="fab fa-facebook-square"></i></a>
+              </h2>
+            </div>
           </div>
         </footer>
       </div>
