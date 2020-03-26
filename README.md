@@ -10,8 +10,8 @@
 
 Base Gatsby template.
 
-[**Demo Website 1**](https://chris-anatalio.dev/)
-[**Demo Website 2**](https://www.projectmmmkgotcha.com/)
+- [**Demo Website 1**](https://chris-anatalio.dev/)
+- [**Demo Website 2**](https://www.projectmmmkgotcha.com/)
 
 ## ✨ Features
 
