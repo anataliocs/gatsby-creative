@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: `/gatsby-creative`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Gatsby Chris Anatalio Base Starter`,
+    description: `Base Project Starter.`,
     author: `@gatsbyjs`,
   },
   plugins: [
@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "", //Enter ID here UA-16364565-3
+        trackingId: "", //TODO Enter ID here Example: UA-16364565-3
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

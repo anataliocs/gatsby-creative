@@ -23,7 +23,7 @@ Base Gatsby template.
 
 ## 🚀 Getting Started
 
-1.  **Create a Gatsby site.**
+1.  **Create a Base Gatsby site Skeleton.**
 
     Use the Gatsby CLI to create a new site, specifying the starter project.
     
